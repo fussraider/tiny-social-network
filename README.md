@@ -1,4 +1,4 @@
-Basic example of user moderation system on Laravel Framework
+The example of implementing a modest social network using the Laravel + Vue.JS.
 
 ## Install
 
