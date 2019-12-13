@@ -19,6 +19,7 @@ Basic example of user moderation system on Laravel Framework
     ```bash
     php artisan key:generate
     php artisan jwt:secret
+    php artisan storage:link
     ```
 
 3. Migrate & seed
